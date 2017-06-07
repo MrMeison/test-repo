@@ -1,4 +1,5 @@
                 (function(powerbi) {
+                    debugger;
                     var window = this;
 
                     //These 2 lines are needed to trick lodash into using this as global scope
